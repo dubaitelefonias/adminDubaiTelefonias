@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383722473396",
+    "project_id": "dubai-telefonia",
+    "storage_bucket": "dubai-telefonia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383722473396:android:e3a9f0d0da236e06ed54e1",
+        "android_client_info": {
+          "package_name": "com.dubaitelefonia.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383722473396-dpbkc6trmppc64mjtlap7vstj211o7fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vJulseTEWtZ64snJXBZXawwyHPR8VMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383722473396-dpbkc6trmppc64mjtlap7vstj211o7fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
