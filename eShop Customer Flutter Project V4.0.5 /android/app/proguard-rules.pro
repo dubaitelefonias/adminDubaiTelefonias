@@ -1,4 +1,0 @@
--keep class com.paytm.pgsdk.** { *; }
--keep class easypay.* { *; }
--keep class android.support.v7.widget.* { *; }
--dontwarn android.support.v7.widget.*
